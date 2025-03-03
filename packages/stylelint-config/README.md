@@ -4,7 +4,7 @@
 
 ## 安装
 
-需要先行安装 [stylelint](https://www.npmjs.com/package/stylelint) 和 [stylelint-scss](https://www.npmjs.com/package/stylelint-scss)：
+需要先行安装 [stylelint](https://www.npmjs.com/package/stylelint) 和 [stylelint-SCSS](https://www.npmjs.com/package/stylelint-scss)：
 
 ```bash
 npm install encode-fe-stylelint-config stylelint stylelint-scss --save-dev
@@ -19,3 +19,5 @@ npm install encode-fe-stylelint-config stylelint stylelint-scss --save-dev
   "extends": "encode-fe-stylelint-config"
 }
 ```
+
+瘦是瘦
